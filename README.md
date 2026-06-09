@@ -69,7 +69,7 @@
 ## 🐍 Historial de Contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JeremyPD/JeremyPD/output/github-contribution-grid-snake.svg" alt="Juego de la Serpiente de Contribuciones"/>
+  <img src="https://raw.githubusercontent.com/JeremyPD/output/github-contribution-grid-snake.svg" alt="Juego de la Serpiente de Contribuciones"/>
 </p>
 
 <br>
