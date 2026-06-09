@@ -35,9 +35,8 @@
 <p align="left">  
   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
 ### Cloud, Contenedores & Herramientas
