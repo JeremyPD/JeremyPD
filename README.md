@@ -51,15 +51,15 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&count_private=true&theme=tokyonight&layout=compact" height="190px"/>
+    <img alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=JeremyPD&show_icons=true&count_private=true&theme=tokyonight&layout=compact" height="190px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_DE_GITHUB&langs_count=6&show_icons=true&theme=tokyonight&layout=compact" alt="Lenguajes más usados" height="190px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeremyPD&langs_count=6&show_icons=true&theme=tokyonight&layout=compact" alt="Lenguajes más usados" height="190px"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=tokyonight" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeremyPD&theme=tokyonight" alt="Racha de contribuciones" />
 </p>
 
 <br>
