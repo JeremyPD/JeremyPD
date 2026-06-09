@@ -65,17 +65,3 @@
 <br>
 
 ---
-
-## 🐍 Historial de Contribuciones
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JeremyPD/output/github-contribution-grid-snake.svg" alt="Juego de la Serpiente de Contribuciones"/>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img alt="Frase de Programación" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-  </a>
-</p>
