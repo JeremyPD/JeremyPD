@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&label=Visitas%20al%20perfil&color=0e75b6&style=flat-square" alt="Visitas" height="25px"/> 
-</p>
-
 ---
 
 ## 🛠️ Sobre Mí
