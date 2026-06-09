@@ -1,35 +1,35 @@
-<h1 align="center">Hi 👋, I'm Jeremy Perdomo Diaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola 👋, soy Jeremy Perdomo Diaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23007acc&size=24&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering+Student;Frontend+Developer;React+%26+Tailwind+Specialist;Building+MuscleTrack+App">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23007acc&size=24&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Developer+Frontend;Especialista+en+React+y+Tailwind;Desarrollando+MuscleTrack+App">
   </a>
 </p>
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" height="25px"/> 
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&label=Visitas%20al%20perfil&color=0e75b6&style=flat-square" alt="Visitas" height="25px"/> 
 </p>
 
 ---
 
-## 🛠️ About Me
+## 🛠️ Sobre Mí
 
 <picture> 
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230px">
 </picture>
 
-- 🎓 **Education:** Currently in my 6th semester of **Systems Engineering** at *Fundación Universitaria Compensar*.
-- 💻 **Tech Stack Focus:** Specialized in building modern web applications using **React**, **Tailwind CSS**, and interactive **SVG**.
-- 🚀 **Current Project:** Developing **MuscleTrack**, a web and mobile application designed to log, store, and compare physical muscle measurements over time.
-- ⚙️ **DevOps & Architecture:** Exploring containerization and orchestration workflows with **Docker** and **Kubernetes** to deploy scalable architectures.
-- 🤝 **Collaboration:** Active contributor to collaborative software development ecosystems.
-- 💬 **Ask me about:** React, database design, component architecture, and UI/UX styling.
+- 🎓 **Educación:** Actualmente en 6.° semestre de **Ingeniería de Sistemas** en la *Fundación Universitaria Compensar*.
+- 💻 **Tech Stack Focus:** Enfocado en el desarrollo de aplicaciones web modernas utilizando **React**, **Tailwind CSS** e interactividad con **SVG**.
+- 🚀 **Proyecto Actual:** Desarrollando **MuscleTrack**, una aplicación web y móvil diseñada para registrar, almacenar y comparar mediciones musculares a lo largo del tiempo.
+- ⚙️ **DevOps & Arquitectura:** Explorando flujos de contenedores y orquestación con **Docker** y **Kubernetes** para el despliegue de arquitecturas escalables.
+- 🤝 **Colaboración:** Participante activo en ecosistemas de desarrollo colaborativo de software.
+- 💬 **Pregúntame sobre:** React, diseño de bases de datos, arquitectura de componentes y estilos UI/UX.
 
 <br>
 
 ---
 
-## 💻 Tech Stack & Tools
+## 💻 Tecnologías y Herramientas
 
 ### Frontend & Core
 <p align="left">  
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-### Cloud, Containers & Tools
+### Cloud, Contenedores & Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
@@ -53,35 +53,35 @@
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 Estadísticas de GitHub
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Jeremy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&count_private=true&theme=tokyonight&layout=compact" height="190px"/>
+    <img alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&count_private=true&theme=tokyonight&layout=compact" height="190px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_DE_GITHUB&langs_count=6&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" height="190px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_DE_GITHUB&langs_count=6&show_icons=true&theme=tokyonight&layout=compact" alt="Lenguajes más usados" height="190px"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=tokyonight" alt="Racha de contribuciones" />
 </p>
 
 <br>
 
 ---
 
-## 🐍 Contribution Journey
+## 🐍 Historial de Contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/output/github-contribution-grid-snake.svg" alt="Snake Game Contributions"/>
+  <img src="https://raw.githubusercontent.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/output/github-contribution-grid-snake.svg" alt="Juego de la Serpiente de Contribuciones"/>
 </p>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+    <img alt="Frase de Programación" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
   </a>
 </p>
