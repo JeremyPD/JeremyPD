@@ -106,10 +106,6 @@
     <img alt="Frase de Programación" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
   </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeremyPD&theme=tokyonight" alt="Racha de contribuciones" />
-</p>
-
 <br>
 
 ---
